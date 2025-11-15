@@ -1,11 +1,11 @@
-👋 Merhaba, Ben Mustafa Can!
+👋 Merhaba, Ben Mustafa Can! ⚡
 
 Ben, Finans ve Teknoloji (FinTech) alanlarını birleştirmeyi hedefleyen, öğrenmeye ve gelişmeye hevesli bir geliştirici adayıyım. Disiplinler arası çalışmanın gücüne inanıyor ve hem finansal sistemleri hem de onları çalıştıran yazılımları anlamak için kendimi geliştiriyorum.
 
 <p align="center">
 <!-- KULLANICI_ADINIZ yazan yerleri kendi GitHub kullanıcı adınızla değiştirin -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DKULLANICI_ADINIZ%26show_icons%3Dtrue%26theme%3Dradical%26locale%3Dtr" alt="Mustafa Can GitHub İstatistikleri" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DKULLANICI_ADINIZ%26layout%3Dcompact%26theme%3Dradical%26locale%3Dtr" alt="En Çok Kullanılan Diller" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmustafacan%26show_icons%3Dtrue%26theme%3Dradical%26locale%3Dtr" alt="Mustafa Can GitHub İstatistikleri" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmustafacan%26layout%3Dcompact%26theme%3Dradical%26locale%3Dtr" alt="En Çok Kullanılan Diller" />
 </p>
 
 🔭 Hakkımda
@@ -74,8 +74,25 @@ Durum: Planlama aşamasında.
 
 Yeni projeler, işbirlikleri veya sadece teknoloji sohbetleri için bana bu kanallardan ulaşabilirsiniz:
 
-LinkedIn: https://www.linkedin.com/in/[KULLANICI_ADINIZ]
+<!--
+Bu rozetler shields.io sitesi üzerinden oluşturulmuştur.
+Linkleri ve kullanıcı adlarını kendinize göre düzenleyin.
+-->
 
-E-posta: mailto:[mailadresiniz@gmail.com]
-
-Twitter (X): https://twitter.com/[KULLANICI_ADINIZ]
+<p align="left">
+<a href="https://www.google.com/search?q=https://www.linkedin.com/in/[KULLANICI_ADINIZ]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+</a>
+<a href="https://twitter.com/[KULLANICI_ADINIZ]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
+</a>
+<a href="mailto:[mailadresiniz@gmail.com]" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://www.google.com/search?q=https://discord.com/users/[DISCORD_ID_NUMARANIZ]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Discord-7289DA%3Fstyle%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite" alt="Discord"/>
+</a>
+<a href="https://www.twitch.tv/[KULLANICI_ADINIZ]" target="_blank">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitch-9146FF%3Fstyle%3Dfor-the-badge%26logo%3Dtwitch%26logoColor%3Dwhite" alt="Twitch"/>
+</a>
+</p>
