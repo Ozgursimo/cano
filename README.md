@@ -4,8 +4,8 @@ Ben, Finans ve Teknoloji (FinTech) alanlarını birleştirmeyi hedefleyen, öğr
 
 <p align="center">
 <!-- KULLANICI_ADINIZ yazan yerleri kendi GitHub kullanıcı adınızla değiştirin -->
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmustafacan%26show_icons%3Dtrue%26theme%3Dradical%26locale%3Dtr" alt="Mustafa Can GitHub İstatistikleri" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmustafacan%26layout%3Dcompact%26theme%3Dradical%26locale%3Dtr" alt="En Çok Kullanılan Diller" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DOzgursimo%26show_icons%3Dtrue%26theme%3Dradical%26locale%3Dtr" alt="Mustafa Can GitHub İstatistikleri" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ozgursimo%26layout%3Dcompact%26theme%3Dradical%26locale%3Dtr" alt="En Çok Kullanılan Diller" />
 </p>
 
 🔭 Hakkımda
